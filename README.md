@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+soy facundo costas y soy un desarroolador web experimentado en busqueda de neuvas poprtundiad labroales
+
 <!--
 **FakuKostasDvlpr/FakuKostasDvlpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
