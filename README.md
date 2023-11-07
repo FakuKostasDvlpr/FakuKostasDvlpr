@@ -1,7 +1,7 @@
 ### Hello there! 👋🏻 I am Facundo, welcome to my <a href="https://github.com/FakuKostasDvlpr" rel="nofollow" color="black">Github</a>!
 
 
-<b>👨‍💻 I'm a fullstack developer.</b> <br>
+<b>👨‍💻 I'm a junior fullstack developer.</b> <br>
 <b>🏠 I am settled in Buenos Aires, Argentina 🇦🇷.</b> <br>
 <b>🔉 Native spanish speaker, advanced english speaker.</b> <br>
 &nbsp;
